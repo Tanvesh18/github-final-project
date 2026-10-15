@@ -13,8 +13,8 @@ Simple Interest = (Principal * Rate * Time) / 100
 - t: Time period in years
 
 ## Output
+The calculated simple interest is displayed to two decimal places accurately.
 
-The calculated simple interest is displayed to two decimal places.
 ## Usage
 
 Run the script:
