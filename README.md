@@ -4,7 +4,7 @@ This repository contains a Bash script that calculates simple interest using the
 
 ## Formula
 
-Simple Interest = (Principal × Rate × Time) / 100
+Simple Interest = (Principal * Rate * Time) / 100
 
 ## Input
 
