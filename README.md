@@ -11,7 +11,7 @@ Input:
    t, time period in years
    r, annual rate of interest
 Output
-   simple interest = p*t*r
+   simple interest = principal*time*rate
 ```
 
 _© 2022 XYZ, Inc._
