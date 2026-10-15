@@ -22,3 +22,8 @@ Run the script:
 
 ```bash
 bash simple-interest.sh
+```
+
+## License
+
+This project is licensed under the Apache License 2.0.
