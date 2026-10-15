@@ -14,7 +14,7 @@ Simple Interest = (Principal * Rate * Time) / 100
 
 ## Output
 
-The calculated simple interest.
+The calculated simple interest amount, displayed to two decimal places.
 
 ## Usage
 
